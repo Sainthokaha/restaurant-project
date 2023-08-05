@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "andrew@test.com",
+      "name": "Anil Sidhu",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "email": "saint@test.com",
+      "name": "Saint Hokaha",
+      "password": "saint@123",
+      "id": 2
+    },
+    {
+      "email": "friend@test.com",
+      "name": "Friend",
+      "password": "friend@123",
+      "id": 3
+    },
+    {
+      "email": "Sweet@test.com",
+      "name": "Sweet",
+      "password": "sweet@123",
+      "id": 4
+    }
+  ],
+  "resturants": [
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 3333,
+      "address": "Gurgan Sector 20"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 4444,
+      "address": "Delhi CP"
+    },
+    {
+      "name": "Starbucks",
+      "address": "Delhi Saket",
+      "contact": "54321",
+      "id": 5
+    },
+    {
+      "name": "Saint's Resturant",
+      "address": "Ekpo Aabsi",
+      "contact": "070******44",
+      "id": 6
+    }
+  ]
+}
